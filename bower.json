@@ -1,0 +1,30 @@
+{
+  "name": "dianaemarcos",
+  "authors": [
+    "Marcos Costa Pinto <costa.marcos.pro@gmail.com>"
+  ],
+  "description": "Site de casamento de Diana e Marcos",
+  "main": "",
+  "license": "MIT",
+  "homepage": "dianaemarcos.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.countdown": "^2.2.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "1.12.4",
+    "animate.css": "^3.5.2",
+    "simplelightbox": "^1.10.7",
+    "bootstrap": "^3.3.7",
+    "matchHeight": "matchheight#^0.7.2",
+    "jquery-validation": "^1.16.0",
+    "imagesloaded": "^4.1.1",
+    "waypoints": "^4.0.1"
+  }
+}
